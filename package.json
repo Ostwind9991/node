@@ -1,0 +1,17 @@
+{
+  "name": "tes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "author": "Aleksander Vykhodchenko",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
